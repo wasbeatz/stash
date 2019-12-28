@@ -1,0 +1,9 @@
+Pour pusher tes truc sur GitHub:
+
+- git add .
+- git commit -m "description de tes modifs"
+- git pusher
+
+Pour updater tes affaire en local:
+
+- git pull
